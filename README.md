@@ -1,2 +1,2 @@
 # CodingProjects
-Repository, for playing around with language and algorithms.
+Repository, for playing around with languages and algorithms.
